@@ -1,0 +1,6 @@
+*.uvprojx
+*.uvoptx
+*.uvguix.*
+*.TMP
+
+obj/
