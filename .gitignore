@@ -3,4 +3,6 @@
 *.uvguix.*
 *.TMP
 
+.docx
+
 obj/
